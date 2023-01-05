@@ -1,3 +1,0 @@
-2022-04-29 16:08:26.180 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Starting FreshApplication using Java 16.0.1 on LAPTOP-BDHVCF29 with PID 36344 (D:\东大之学习\大三\大三下\软件工程\backend\backend\target\classes started by user in D:\东大之学习\大三\大三下\软件工程\backend\backend)
-2022-04-29 16:08:26.187 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - No active profile set, falling back to default profiles: default
-2022-04-29 16:08:30.980 [restartedMain] [INFO ] com.hippo.fresh.FreshApplication - Started FreshApplication in 5.241 seconds (JVM running for 6.273)
